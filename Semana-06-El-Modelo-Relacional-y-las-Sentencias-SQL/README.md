@@ -129,6 +129,3 @@ proyecto/
 - **Oracle Database XE** — motor de base de datos local donde se validó el script.
 - **GitHub** — repositorio de entrega del script y la evidencia del trabajo.
 
-## ✍️ Autor
-
-_Completar con nombre(s) del/los autor(es)_ — Actividad Semana 6, asignatura Modelamiento de Bases de Datos.
