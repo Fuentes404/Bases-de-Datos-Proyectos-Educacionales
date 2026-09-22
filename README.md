@@ -12,7 +12,7 @@ Incluye ejercicios, modelos y entregables organizados semanalmente, abarcando de
 | Semana 3 | Jerarquía entre entidades | Modelamiento de relaciones de herencia (supertipo/subtipo) entre entidades del negocio | [📁 Ver carpeta](./Semana-03-Jerarquía-entre-entidades) |
 | Semana 4 | Normalización — Caso *Ministerio del Trabajo* | Aplicación de formas normales para transformar un modelo lógico en un modelo relacional normalizado | [📁 Ver carpeta](./Semana-04-Normalizacion) |
 | Semana 5 | MER y MR — Caso retail *Solari S.A.* | Transformación de un MER conceptual sin normalizar en un MER-E Normalizado, derivación del Modelo Relacional (MR) y generación del **script DDL** en Oracle SQL | [📁 Ver carpeta](./Semana-05-MER-y-MR) |
-| Semana 6 | Pendiente | — | — |
+| Semana 6 | Implementando un Modelo Relacional con Sentencias SQL — Caso *Consultorio Médico Santa Gema* | Completado de un modelo relacional entregado incompleto y su implementación física en Oracle Database mediante **script DDL**: creación de tablas, llaves primarias y foráneas, restricciones (`CHECK`, `UNIQUE`, `IDENTITY`) y modificaciones posteriores con `ALTER TABLE` | [📁 Ver carpeta](./Semana-06-Implementando-Modelo-Relacional) |
 | Semana 7 | Pendiente | — | — |
 | Semana 8 | Pendiente | — | — |
 
