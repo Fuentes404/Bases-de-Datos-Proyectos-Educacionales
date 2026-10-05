@@ -14,7 +14,7 @@ Incluye ejercicios, modelos y entregables organizados semanalmente, abarcando de
 | Semana 5 | MER y MR — Caso retail *Solari S.A.* | Transformación de un MER conceptual sin normalizar en un MER-E Normalizado, derivación del Modelo Relacional (MR) y generación del **script DDL** en Oracle SQL | [📁 Ver carpeta](./Semana-05-MER-y-MR) |
 | Semana 6 | Implementando un Modelo Relacional con Sentencias SQL — Caso *Consultorio Médico Santa Gema* | Completado de un modelo relacional entregado incompleto y su implementación física en Oracle Database mediante **script DDL**: creación de tablas, llaves primarias y foráneas, restricciones (`CHECK`, `UNIQUE`, `IDENTITY`) y modificaciones posteriores con `ALTER TABLE` | [📁 Ver carpeta](./Semana-06-El-Modelo-Relacional-y-las-Sentencias-SQL) |
 | Semana 7 | Poblamiento y consulta de una base de datos | — | [📁 Ver carpeta](./Semana-07-Poblamiento-y-Consultas-a-una-base-de-datos) |
-| Semana 8 | Construyendo una base de datos a partir de un MR  | — | [📁 Ver carpeta](./Semana-08-Construyendo-una-Base-de-Datos-a-partir-de-un-MR) |
+| Semana 8 | Construyendo una base de datos a partir de un MR — Caso *Taller Mecánico Mikes Ltda.* | Implementación de un modelo relacional normalizado en Oracle Database: creación de tablas con **script DDL** (PK, FK, `IDENTITY`), modificaciones con `ALTER TABLE` (`CHECK`, `UNIQUE`, nueva PK compuesta), poblamiento con `INSERT` y secuencias, e informes con `SELECT` (`WHERE`, `ORDER BY`, `ROUND`) | [📁 Ver carpeta](./Semana-08-Construyendo-una-Base-de-Datos-a-partir-de-un-MR) |
 
 ## 🛠️ Software y herramientas de desarrollo
 
